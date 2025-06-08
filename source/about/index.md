@@ -2,7 +2,7 @@
 title: O nas
 ---
 
-Jestesmy firmą wyspecjalizowaną w outsourcingu usług kadrowowo-płacowych. Swoja wiedzą i doświadczeniem dzielimy się na tym blogu oraz w social mediach:
+Jestesmy firmą wyspecjalizowaną w outsourcingu usług kadrowo-płacowych. Swoja wiedzą i doświadczeniem dzielimy się na tym blogu oraz w social mediach:
 
 www.Facebook.com
 www.tiktok.com
