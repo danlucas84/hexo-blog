@@ -8,6 +8,7 @@ subtitle: Payroll| Kadry|Płace|Prawo Pracy|ZUS|Podatki
 description: 'O kadrach i płacach w Polsce. Porady, aktualności, przepisy prawa pracy, ZUS i podatki. Praktyczne informacje dla pracodawców i pracowników.'
 keywords:
 author: jobsService
+menu_title: jobsService
 language: en
 timezone: ''
 
@@ -108,7 +109,7 @@ menu_title: jobsService
 menu:
     Home: /
     Kontakt: /contact
-    
+
     Github:
       url: https://github.com/
       icon: github
