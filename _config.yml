@@ -101,29 +101,19 @@ theme: clean-blog
 
 theme_config:
 
-index_cover: img/home-bg.jpg
+index_cover: images/kadry1.jpg
 menu_title: jobsService
-configurable_title: true 
-# Set to true to use the title from the config file
-
-
+configurable_title: true
 # Header
-menu:
-    Home: /
-    Kontakt: /contact
 
+Home: /
+    Contact: /contact/
     Github:
-      url: https://github.com/
+      url: https://github.com/piecioshka/
       icon: github
     Twitter:
-      url: https://twitter.com/
+      url: https://twitter.com/piecioshka
       icon: twitter
-    Facebook:
-      url: https://www.facebook.com/
-      icon: facebook
-    tiktok:
-      url: https://www.tiktok.com/
-      icon: tiktok
   
   
    # Set to true to use the title from the config file 
