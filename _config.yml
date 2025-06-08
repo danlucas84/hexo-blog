@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: jobsSevice 
+title: jobsService 
 subtitle: Payroll| Kadry|Płace|Prawo Pracy|ZUS|Podatki
 description: ''
 keywords:
-author: John Doe
-language: en
+author: jobsService
+language: pl
 timezone: ''
 
 # URL
