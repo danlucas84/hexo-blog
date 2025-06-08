@@ -5,7 +5,7 @@
 # Site
 title: jobsService 
 subtitle: Payroll| Kadry|Płace|Prawo Pracy|ZUS|Podatki
-description: ''
+description: 'O kadrach i płacach w Polsce. Porady, aktualności, przepisy prawa pracy, ZUS i podatki. Praktyczne informacje dla pracodawców i pracowników.'
 keywords:
 author: jobsService
 language: pl
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://jobsService.blog
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -111,7 +111,9 @@ theme_config:
     Twitter:
       url: https://twitter.com/
       icon: twitter
-  index_cover: img/home-bg.jpg  
+  index_cover: img/home-bg.jpg 
+  menu_title: jobsService
+  configurable title: Home # Set to true to use the title from the config file 
   default_post_title: Untitled
   comments:
     disqus_shortname: ''
