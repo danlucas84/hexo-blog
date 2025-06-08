@@ -117,20 +117,7 @@ menu:
   Kategorie: /categories/
   Kontakt: /contact
 
-  Github:
-    url: https://https://github.com/danlucas84
-    icon: github
 
-
-  Youtube:
-  url: https://www.youtube.co
-  icon: youtube
-  Facebook:
-  url: https://www.facebook.c
-  icon: facebook
-  Twitter:
-  url: https://twitter.com/
-  icon: twitter
   
   
    # Set to true to use the title from the config file 
