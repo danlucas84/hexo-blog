@@ -103,6 +103,8 @@ theme_config:
 
 index_cover: img/home-bg.jpg
 menu_title: jobsService
+configurable_title: true 
+# Set to true to use the title from the config file
 
 
 # Header
