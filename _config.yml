@@ -101,9 +101,14 @@ theme: clean-blog
 
 theme_config:
 
-index_cover: images/kadry1.jpg
+
+
+
 menu_title: jobsService
-configurable_title: true
+
+configurable_title: false
+
+
 # Header
 menu: 
   Home: /
@@ -132,3 +137,7 @@ favicon: ''
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+  
+  server:
+  cache: true
