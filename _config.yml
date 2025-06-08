@@ -96,8 +96,36 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: clean-blog
 
+theme_config:
+  # Header
+  menu:
+    Home: /
+    Archives: /archiwum
+    Tags: /tags
+    Categories: /kategorie
+    Github:
+      url: https://github.com/piecioshka/
+      icon: github
+    Twitter:
+      url: https://twitter.com/piecioshka
+      icon: twitter
+  menu_title: Configurable Title
+  index_cover: img/home-bg.jpg  
+  default_post_title: Untitled
+  comments:
+    disqus_shortname: ''
+    facebook:
+      appid: ''
+      comment_count: 5
+      comment_colorscheme: light
+  google_analytics: ''
+  addthis: '' 
+  favicon: ''
+  twitter_url: https://twitter.com/piecioshka
+  twitter_handle: piecioshka
+  facebook_url: https://www.facebook.com/piecioshka
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
