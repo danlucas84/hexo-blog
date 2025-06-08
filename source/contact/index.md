@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Kontakt
 ---
 
-If you want to contact me, use Twitter platform.
+Zapraszamy do kontaktu pod adresem .

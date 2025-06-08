@@ -111,14 +111,14 @@ configurable_title: false
 
 # Header
 menu: 
+  menu:
   Home: /
-  Contact: /contact/
+  O nas: /about/
+  Kontakt: /contact
+
   Github:
-    url: https://github.com/piecioshka/
+    url: https://g
     icon: github
-  Twitter:
-    url: https://twitter.com/piecioshka
-    icon: twitter
   
   
    # Set to true to use the title from the config file 
