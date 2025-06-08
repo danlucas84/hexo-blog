@@ -125,16 +125,16 @@ menu:
   
   
    # Set to true to use the title from the config file 
-  default_post_title: Untitled
-  comments:
+default_post_title: Untitled
+comments:
     disqus_shortname: ''
     facebook:
       appid: ''
       comment_count: 5
       comment_colorscheme: light
-  google_analytics: ''
-  addthis: '' 
-  favicon: ''
+google_analytics: ''
+addthis: '' 
+favicon: ''
   
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
