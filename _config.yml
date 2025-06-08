@@ -99,8 +99,13 @@ ignore:
 theme: clean-blog
 
 theme_config:
-  # Header
-  menu:
+
+index_cover: img/home-bg.jpg
+menu_title: jobsService
+configurable title: Home
+
+# Header
+menu:
     Home: /
     Archives: /archiwum
     Tags: /tags
@@ -111,9 +116,15 @@ theme_config:
     Twitter:
       url: https://twitter.com/
       icon: twitter
-  index_cover: img/home-bg.jpg 
-  menu_title: jobsService
-  configurable title: Home # Set to true to use the title from the config file 
+    Facebook:
+      url: https://www.facebook.com/
+      icon: facebook
+    tiktok:
+      url: https://www.tiktok.com/
+      icon: tiktok
+  
+  
+   # Set to true to use the title from the config file 
   default_post_title: Untitled
   comments:
     disqus_shortname: ''
