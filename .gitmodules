@@ -1,0 +1,3 @@
+[submodule "hexo-blog-test-clean-code-kadry"]
+	path = hexo-blog-test-clean-code-kadry
+	url = https://github.com/danlucas84/hexo-blog-test-clean-code-kadry.git
